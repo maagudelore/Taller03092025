@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Theme.Taller03092025" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Tema principal de la app -->
+    <style name="Theme.Taller1" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Barra de estado -->
+        <item name="android:statusBarColor">@color/purpleTopBar</item>
+        <!-- Barra de navegación -->
+        <item name="android:navigationBarColor">@color/bgDark</item>
+    </style>
+
 </resources>

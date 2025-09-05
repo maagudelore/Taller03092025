@@ -8,8 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="bluelabel">#0E0B29</color>
-    <color name="orange1">#e46400</color>
-    <color name="input_bg">#E6E6E6</color>
-    <color name="purple_accent">#7A3DF0</color>
+
+    <color name="purpleTopBar">#6C2BD9</color>
+    <color name="orangeBrand">#FF7A00</color>
+    <color name="bgDark">#0B0C1A</color>
+    <color name="fieldFill">#E6E6E6</color>
+
 </resources>
